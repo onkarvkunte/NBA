@@ -91,4 +91,4 @@ AI Engineer | Computer Vision & NLP Enthusiast
 
 ---
 
-Do you want me to also **add a “Demo” section with sample output images** from your notebook so the GitHub page looks more visually appealing? That will make a big difference for recruiters clicking your repo.
+
